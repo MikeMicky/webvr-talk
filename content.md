@@ -657,9 +657,8 @@ iStaging
 
 # Thanks !  <!-- .element: style="" -->
 
-- VR Website Demo : [gurumukhi.github.io/vr-ram](https://gurumukhi.github.io/vr-ram/)
-- SHA VR Tour : [gurumukhi.github.io/vr-sha](https://gurumukhi.github.io/vr-sha/)
-- Slides : [gurumukhi.github.io/webvr-talk](https://gurumukhi.github.io/webvr-talk/)
+- VR Website Demo : [WEBVR Demo](https://gurumukhi.github.io/vr-ram/)
+- Slides : [mikemicky.github.io/webvr-talk](https://mikemicky.github.io/webvr-talk/)
 - Telegram : [telegram.me/MozillaVR](https://telegram.me/MozillaVR)
 - Slack : [aframevr-slack.herokuapp.com](https://aframevr-slack.herokuapp.com/)
-- Find me : [@ram_gurumukhi](http://twitter.com/ram_gurumukhi) | [vaishnav.rd@gmail.com](mailto:vaishnav.rd@gmail.com) 
+- Find me : [@MikeMozmicky](http://twitter.com/MikeMozmicky) | [mukeshpathak345@gmail.com](mailto:mukeshpathak345@gmail.com) 
