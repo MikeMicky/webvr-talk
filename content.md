@@ -4,7 +4,7 @@
   <h1>A-Frame</h1>
   <p>A web framework for building VR experiences</p>
   <p class="talk-info">
-    Ram | BR Softech 2018
+    Mukesh Pathak | RGI College 2020
   </p>
 </div>
 
@@ -17,10 +17,10 @@
 <!-- .slide: class="slide__questionsx" data-background="" style="" -->
 
 # About Me !  <!-- .element: style="" -->
-Ram Dayal Vaishnav 
+Mukesh Pathak 
 <div><img data-src="media/img/ram.jpg" style="width:250px"></div>
-- Senior Web Developer @ Arcesium
-- Mozilla Tech Speaker & Mozilla Rep
+- Senior Web Developer @ Indian Achievers Story
+- Mozilla Representative
 
 ------
 
