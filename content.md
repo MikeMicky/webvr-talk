@@ -20,7 +20,7 @@
 Mukesh Pathak 
 <div><img data-src="media/img/mike.jpg" style="width:250px"></div>
 - Senior Web Developer @ Indian Achievers Story
-- Mozilla Reps
+- Mozilla Representative
 
 ------
 
